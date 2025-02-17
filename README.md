@@ -60,6 +60,6 @@ http://projetarcadia.local
 
 🎉 Le projet est maintenant installé et fonctionnel !
 
-lien déployé :
+lien déployé : https://arcadiaa-0544a6cb20a3.herokuapp.com/
 
 Merci pour votre intérêt et bonne utilisation ! 🦊🌱
